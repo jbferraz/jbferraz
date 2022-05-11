@@ -38,7 +38,4 @@ Aqui estão algumas idéias para você começar:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" height="40"/>
 <i class="devicon-canva-original colored"></i>
-          
-  
-### Passa tempo:
-![Snake animation](https://github.com/jbferraz/jbferraz/blob/output/github-contribution-grid-snake.svg)
+
