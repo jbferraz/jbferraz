@@ -4,7 +4,7 @@
 
 Aqui estão algumas idéias para você começar:
 
-- 🔭 Atualmente estou trabalhando em Projetos Pessoais e ministrando aula no Técnico em DEV no Senac Tech(https://www.senacrs.com.br/unidade/18)
+- 🔭 Atualmente estou trabalhando em Projetos Pessoais e ministrando aula no Técnico em DEV no <a href="https://www.senacrs.com.br/unidade/18">Senac Tech</a>
 <!--
 - 🌱 Atualmente estou aprendendo ...
 - 👯 Estou procurando colaborar em ...
