@@ -1,9 +1,5 @@
 ### Olá Pessoal 👋
 
-**jbferraz/jbferraz** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
-Aqui estão algumas idéias para você começar:
-
 - 🔭 Atualmente estou trabalhando em Projetos Pessoais e ministrando aula no Técnico em DEV no <a href="https://www.senacrs.com.br/unidade/18">Senac Tech</a>
 <!--
 - 🌱 Atualmente estou aprendendo ...
