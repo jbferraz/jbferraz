@@ -41,4 +41,4 @@
 <i class="devicon-canva-original colored"></i>
 
 ### Referência para criar o teu Readme.md
-<a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github" target="_blanck">Crie seu próprio Readme</a>
+<a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github" target="_blank">Crie seu próprio Readme</a>
