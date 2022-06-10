@@ -40,3 +40,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" height="40"/>
 <i class="devicon-canva-original colored"></i>
 
+### Referência para criar o teu Readme.md
+<a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github" target="_blanck">Crie seu próprio Readme</a>
