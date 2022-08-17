@@ -41,4 +41,6 @@
 <i class="devicon-canva-original colored"></i>
 
 ### Referência para criar o teu Readme.md
+<a href="https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme" target="_blank">Gerenciar o README do seu perfil</a>
 <a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github" target="_blank">Crie seu próprio Readme</a>
+
