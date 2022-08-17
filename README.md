@@ -39,7 +39,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" height="40"/>
 <i class="devicon-canva-original colored"></i>
-
+<style>
+  a{
+  text-decoration: none;
+  }
+</style>
 ### Referência para criar o teu Readme.md
 <a href="https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme" target="_blank">Gerenciar o README do seu perfil</a>
   <br/>
